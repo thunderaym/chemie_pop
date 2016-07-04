@@ -1,0 +1,20 @@
+
+html {
+	background-color: black;
+	font-family: 'Oduda', 'Varela Round', sans-serif;
+	height: 100%;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	margin: 0 auto;
+	font-family: 'Oduda', 'Varela Round', sans-serif;
+	height: 100%;
+}
+
+@font-face {
+	font-family: 'Oduda';
+    src: url('font/oduda-bold-webfont.ttf') format("truetype");
+}
+
